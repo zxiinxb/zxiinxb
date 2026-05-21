@@ -14,7 +14,7 @@ I enjoy building intelligent systems, exploring data-driven technologies, and wo
 
 Currently serving as:
 
-⭐ **Data Science Lead — NSDC Jamia Hamdard**  
+⭐ **Vice Chair,Data Science Lead — NSDC Jamia Hamdard**  
 ⭐ **Member — Google Developer Groups (GDG) Jamia Hamdard**
 
 My academic interests include:
@@ -23,6 +23,7 @@ My academic interests include:
 🔬 Artificial Intelligence  
 🔬 Data Science  
 🔬 AI Research & Intelligent Systems  
+🔬 Agentic AI (Langgraph)
 
 ---
 

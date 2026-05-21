@@ -103,6 +103,7 @@ Libraries I work with:
 📊 Seaborn  
 📊 Scikit-learn  
 📊 Streamlit  
+📊 Langgraph
 
 ---
 

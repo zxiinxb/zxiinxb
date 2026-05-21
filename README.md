@@ -9,7 +9,7 @@
 
 🎓 **B.Tech Computer Science Student – Jamia Hamdard**
 
-I am passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
+I am passionate about **Artificial Intelligence, Machine Learning, Data Science, and Agentic AI**.  
 I enjoy building intelligent systems, exploring data-driven technologies, and working on **research-oriented AI projects** that solve real-world problems.
 
 Currently serving as:
@@ -153,4 +153,4 @@ Libraries I work with:
 
 ---
 
-⭐ *“Passionate about buildi
+⭐ *“Passionate about building AI agents.
